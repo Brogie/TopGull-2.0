@@ -1,0 +1,7 @@
+Content\MessageFont.xnb
+Content\Textures\Players\PlayerBlue.xnb
+Content\Textures\Players\PlayerRed.xnb
+Content\Textures\Players\PlayerYellow.xnb
+Content\Textures\Background.xnb
+Content\Textures\TopBar.xnb
+Content\Textures\Enemy.xnb

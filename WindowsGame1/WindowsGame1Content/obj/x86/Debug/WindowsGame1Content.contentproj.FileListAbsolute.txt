@@ -1,0 +1,4 @@
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1Content\obj\x86\Debug\WindowsGame1Content.contentprojResolveAssemblyReference.cache

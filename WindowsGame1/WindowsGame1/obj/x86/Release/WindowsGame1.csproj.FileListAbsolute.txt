@@ -1,0 +1,13 @@
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\MessageFont.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\Players\PlayerBlue.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\Players\PlayerRed.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\Players\PlayerYellow.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\TopBar.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\Enemy.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Textures\Background.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.csprojResolveAssemblyReference.cache

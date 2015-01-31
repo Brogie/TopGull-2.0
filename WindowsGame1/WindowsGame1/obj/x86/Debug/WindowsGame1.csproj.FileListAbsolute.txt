@@ -1,0 +1,45 @@
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cheese.xnb
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cracker.xnb
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tablecloth.xnb
+\\data.adir.hull.ac.uk\home4\490\490448\visual studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cheese.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cracker.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tablecloth.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Burp.xnb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Rob\OneDrive\2014-2015 Year\Halloween Three Thing Game\WindowsGame1\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cheese.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cracker.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Tablecloth.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Burp.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\MessageFont.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\Players\PlayerBlue.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\Players\PlayerRed.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\Players\PlayerYellow.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\Background.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\TopBar.xnb
+C:\Users\Brogie\Documents\Visual Studio 2013\Projects\TacticalClone\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Textures\Enemy.xnb
